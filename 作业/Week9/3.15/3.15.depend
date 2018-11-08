@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1509427465 source:d:\c++\作业\3.15.cpp
+	<iostream>
+	"3.15.h"
+
+1509427487 d:\c++\作业\3.15.h
+	<iostream>
+
+1509429302 source:d:\c++\作业\date.cpp
+	<iostream>
+	"3.15.h"
+

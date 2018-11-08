@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1300083992 source:d:\c++\作业\week02\main.cpp
+	<iostream>
+	"Maze.h"
+
+1293110467 d:\c++\作业\week02\maze.h
+
+1520611110 source:d:\c++\作业\week02\maze.cpp
+	<iostream>
+	<fstream>
+	"Maze.h"
+	<stdlib.h>
+

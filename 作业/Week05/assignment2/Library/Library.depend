@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1522675089 source:d:\c++\作业\week05\assignment2\library\main.cpp
+	<iostream>
+	<string>
+	"Library.h"
+
+1522676797 d:\c++\作业\week05\assignment2\library\library.h
+	<string>
+	<iostream>
+
+1522676767 source:d:\c++\作业\week05\assignment2\library\library.cpp
+	"Library.h"
+	<string>
+	<iostream>
+

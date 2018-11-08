@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1521983683 source:d:\c++\作业\week04\matrix\main.cpp
+	<iostream>
+	<string>
+	"Matrix.h"
+
+1521982088 d:\c++\作业\week04\matrix\matrix.h
+	<iostream>
+	<string>
+
+1521983832 source:d:\c++\作业\week04\matrix\matrix.cpp
+	"Matrix.h"
+	<iostream>
+

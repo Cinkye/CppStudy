@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1523767530 source:d:\c++\作业\week06\assignment4\zoo\main.cpp
+	<iostream>
+	"Zoo.h"
+
+1523767702 d:\c++\作业\week06\assignment4\zoo\zoo.h
+	<ctime>
+	<stdlib.h>
+	<string>
+	<windows.h>
+
+1523767590 source:d:\c++\作业\week06\assignment4\zoo\zoo.cpp
+	<ctime>
+	<iostream>
+	<iomanip>
+	"Zoo.h"
+	<string>
+	<stdlib.h>
+	<windows.h>
+
