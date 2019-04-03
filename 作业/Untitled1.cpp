@@ -1,21 +1,29 @@
 #include <iostream>
 #include <stdio.h>
+#include <stdlib.h>
+#include <ctime>
 using namespace std;
+class xy
+{
+    public:
+        int x;
+        int y;
+        xy(int num)
+        {
+            transform(num);
+        }
+        void transform(int num)
+        {
+            x = num % 5;
+            if(x == 0)
+                x = 5;
+            y = num / 5;
+        }
+};
+
 int main()
 {
-    char password[50];
-    int n;
-    cin >> n;
-    int i = 0;
-    while(cin.peek()!=EOF)
-    {
-        password[i]=96+((getchar()-96+n)%26);
-        i++;
-    }
-    for(int j = 0;j<i;++j)
-    {
-        cout << password[j];
-    }
-    return 0;
+    xy x(13);
+    cout << x.x << "," << x.y;
 }
 
